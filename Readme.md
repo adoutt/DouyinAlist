@@ -1,0 +1,3 @@
+本代码应与DouyinLiveRecorder与Alist结合使用
+通过实现DouyinLiveRecorder实现直播间自动监控 
+由Alist挂载好磁盘，完成相关配置之后本代码会自动将制定目录文件夹下的内容上传至Alist云盘
